@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bharti281/Text-Utils/static/css/main.dc4d6ff2.css",
+    "main.js": "/bharti281/Text-Utils/static/js/main.872c0d40.js",
+    "static/js/787.28372f46.chunk.js": "/bharti281/Text-Utils/static/js/787.28372f46.chunk.js",
+    "index.html": "/bharti281/Text-Utils/index.html",
+    "main.dc4d6ff2.css.map": "/bharti281/Text-Utils/static/css/main.dc4d6ff2.css.map",
+    "main.872c0d40.js.map": "/bharti281/Text-Utils/static/js/main.872c0d40.js.map",
+    "787.28372f46.chunk.js.map": "/bharti281/Text-Utils/static/js/787.28372f46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.872c0d40.js"
+  ]
+}
